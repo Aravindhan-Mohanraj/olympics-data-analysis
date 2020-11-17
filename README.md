@@ -1,0 +1,1 @@
+In this project final project of the data science course, I was expected to use all the features that I have learned in this course period like Dataframe operations, Conditional statement and loops, List operations, Bar Plotting, Mathematical operations and etc, to visualize the data in a more efficient way.
